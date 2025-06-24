@@ -1,33 +1,40 @@
----
-layout: default
-title: Welcome to ShawnPage
----
 
-# 👋 Welcome to ShawnPage
+# 🌊 Model Flows with Physics & AI
 
-Probabilistic Modeling | Climate AI | Vision Projects  
-Built and maintained by **Shawn Li**
+**Shuolin "Shawn" Li, Ph.D.**  
+Postdoctoral Scientist Fellow  
+Data Science Institute, Columbia University, New York, USA  
+Email: shuolin.li@columbia.edu  
 
 ---
 
-## 🌍 About
+## 🔬 About Me
 
-This site showcases Shawn's work in:
+I lead the *Machine Learning for Data Assimilation* project at [LEAP](https://leap.columbia.edu/) — NSF’s Science and Technology Center focused on Learning the Earth with AI and Physics. At Columbia University, I am jointly mentored by Professors [**Pierre Gentine**](https://leap.columbia.edu/) and [**Tian Zheng**](https://leap.columbia.edu/)(Department of Statistics).
 
-- Probabilistic data assimilation for climate modeling  
-- Conditional normalizing flows (CNFs)  
-- Vision-based modeling in Earth science  
+My research bridges **physics-based modeling** and **machine learning** to advance understanding and prediction of geophysical systems. I focus on: i) Developing process-based mathematical and physical models; ii) Designing generative AI algorithms for wind–water–climate dynamics; and iii) Building science-aware ML applications for Earth and environmental systems  
 
 ---
 
-## 📦 Featured Repo
+## 🎓 Education
 
-**[Probabilistic-Climate-DA](https://github.com/shawn-vision/Probabilistic-Climate-DA)**  
-A framework combining CNFs with the Lorenz’96 model for distributional parameter inference.
+I earned my Ph.D. degree in **Fluid Dynamics and Hydrology (on Applied Math and Statistics)** from **Duke University (USA)** in April 2023, where I was fortunate to have been advised by Professor [**Gabriel "Gaby" Katul**](https://nicholas.duke.edu/people/faculty/gabriel-katul/), a member of the **National Academy of Engineering**. Additionally, I was guided by Professor [**Vahid Tarokh**](https://ece.duke.edu/people/vahid-tarokh/), also an NAE member, and obtained a Master of Science degree in **Computer Science** concentrated on **Artificial Intelligence**.  
+
+I completed a Master’s degree in Mechanical Engineering (minor in Climate Science) at **Cornell University (USA)** in June 2019, following an earlier degree in Environmental Engineering Science from **Northwestern University (USA)**, where I graduated in May 2018—marking the beginning of my academic journey in the United States.
 
 ---
 
-## 📬 Contact
+## 🏅 Honors & Service
 
-- Email: shawn@example.com  
-- GitHub: [@shawn-vision](https://github.com/shawn-vision)
+- **Convener**, AGU 2025: *Transport & Interactions in Aquatic Ecosystems Across Scales*
+- **Best Student Paper Award**, CVPR EarthVision: ML for Data Assimilation, 2024
+- **Associate Editor**, *Journal of Hydrology* (Q1, 2023–2027)
+- **Leadership Award**, Duke Engineering Ph.D. Plus Program, 2023
+- **Advisory Board Member**, Ph.D. Plus, Duke Engineering, 2022–2023
+- **Vice President**, Duke Chinese Students & Scholars Association, 2021–2022
+- **Award for Outstanding Self-Funded Students Abroad**, China Ministry of Education, 2020
+- **Keynote Speaker**, First Global Competence Forum for Young Elites, Xi'an, China, 2019
+
+---
+
+> *“Modeling nature demands both rigor and creativity — I try to bring both.”*
