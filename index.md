@@ -3,7 +3,7 @@
 
 **Shuolin "Shawn" Li, Ph.D.**  
 Postdoctoral Scientist Fellow  
-Data Science Institute, Columbia University, New York, USA  
+[Data Science Institute](https://datascience.columbia.edu/), Columbia University, New York, USA  
 Email: shuolin.li@columbia.edu  
 
 ---
