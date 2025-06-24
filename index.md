@@ -1,7 +1,7 @@
 <div style="
   position: fixed;
-  top: 100px;
-  right: 0;
+  top: 1000px;
+  right: 100;
   background: white;
   padding: 10px 12px;
   border-top-left-radius: 8px;
@@ -19,7 +19,7 @@
   <a href="./ai4science.md" style="text-decoration: none; color: #1a73e8; font-weight: bold;">🤖 AI for Science</a>
 </div>
 
-
+<div style="margin-top: 960px;"></div>
 
 # 🌊 Model Flows with Physics & AI
 
@@ -28,8 +28,6 @@ Postdoctoral Scientist Fellow
 [Data Science Institute](https://datascience.columbia.edu/), Columbia University, New York, USA  
 Email: shuolin.li@columbia.edu  
 
-[📄 View Publications](./publication.html)
-[🤖 AI for Science](./ai4science.md)
 ---
 
 ## 🔬 About Me
