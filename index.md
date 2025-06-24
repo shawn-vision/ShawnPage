@@ -1,5 +1,5 @@
 <div style="
-  margin-top: 30px;
+  margin-top: 10px;
   text-align: right;
   font-size: 0.9rem;
   background: white;
@@ -24,6 +24,7 @@ Postdoctoral Scientist Fellow
 Email: shuolin.li@columbia.edu  
 
 ---
+
 <div style="line-height: 1.5;">
   
 ## 🔬 About Me
