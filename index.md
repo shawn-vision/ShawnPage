@@ -19,8 +19,6 @@
   <a href="./ai4science.md" style="text-decoration: none; color: #1a73e8; font-weight: bold;">🤖 AI for Science</a>
 </div>
 
-<div style="margin-top: 960px;"></div>
-
 # 🌊 Model Flows with Physics & AI
 
 **Shuolin "Shawn" Li, Ph.D.**  
