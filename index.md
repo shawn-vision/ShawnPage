@@ -1,11 +1,25 @@
-
-<div style="position: fixed; top: 0; right: 0; background: white; padding: 10px 20px; border-bottom-left-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); z-index: 1000; font-size: 0.9rem;">
-  <a href="./index.md" style="margin-left: 15px; text-decoration: none; color: #1a73e8; font-weight: bold;">🏠 Home</a>
-  <a href="./publication.md" style="margin-left: 15px; text-decoration: none; color: #1a73e8; font-weight: bold;">📄 Publications</a>
-  <a href="./ai4science.md" style="margin-left: 15px; text-decoration: none; color: #1a73e8; font-weight: bold;">🤖 AI for Science</a>
+<div style="
+  position: fixed;
+  top: 100px;
+  right: 0;
+  background: white;
+  padding: 10px 12px;
+  border-top-left-radius: 8px;
+  border-bottom-left-radius: 8px;
+  box-shadow: -2px 2px 6px rgba(0,0,0,0.1);
+  z-index: 1000;
+  font-size: 0.9rem;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 10px;
+">
+  <a href="./index.md" style="text-decoration: none; color: #1a73e8; font-weight: bold;">🏠 Home</a>
+  <a href="./publication.md" style="text-decoration: none; color: #1a73e8; font-weight: bold;">📄 Publications</a>
+  <a href="./ai4science.md" style="text-decoration: none; color: #1a73e8; font-weight: bold;">🤖 AI for Science</a>
 </div>
 
-<div style="margin-top: 80px;"></div>
+
 
 # 🌊 Model Flows with Physics & AI
 
