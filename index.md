@@ -24,7 +24,8 @@ Postdoctoral Scientist Fellow
 Email: shuolin.li@columbia.edu  
 
 ---
-
+<div style="line-height: 1.5;">
+  
 ## 🔬 About Me
 
 I lead the *Machine Learning for Data Assimilation* project at [LEAP](https://leap.columbia.edu/) — NSF’s Science and Technology Center focused on Learning the Earth with AI and Physics. At Columbia University, I am jointly mentored by Professors [Pierre Gentine](https://leap.columbia.edu/) and [Tian Zheng](https://leap.columbia.edu/)(Department of Statistics).
@@ -53,5 +54,6 @@ I completed a Master’s degree in Mechanical Engineering (minor in Climate Scie
 - **Keynote Speaker**, First Global Competence Forum for Young Elites, Xi'an, China, 2019
 
 ---
+</div>
 
 > *“Modeling nature demands both rigor and creativity — I try to bring both.”*
