@@ -1,7 +1,7 @@
 <div style="
   position: fixed;
-  top: 1000px;
-  right: 100;
+  top: 100px;
+  right: 10;
   background: white;
   padding: 10px 12px;
   border-top-left-radius: 8px;
@@ -30,7 +30,7 @@ Email: shuolin.li@columbia.edu
 
 ## 🔬 About Me
 
-I lead the *Machine Learning for Data Assimilation* project at [LEAP](https://leap.columbia.edu/) — NSF’s Science and Technology Center focused on Learning the Earth with AI and Physics. At Columbia University, I am jointly mentored by Professors [**Pierre Gentine**](https://leap.columbia.edu/) and [**Tian Zheng**](https://leap.columbia.edu/)(Department of Statistics).
+I lead the *Machine Learning for Data Assimilation* project at [LEAP](https://leap.columbia.edu/) — NSF’s Science and Technology Center focused on Learning the Earth with AI and Physics. At Columbia University, I am jointly mentored by Professors [Pierre Gentine](https://leap.columbia.edu/) and [Tian Zheng](https://leap.columbia.edu/)(Department of Statistics).
 
 My research bridges **physics-based modeling** and **machine learning** to advance understanding and prediction of geophysical systems. I focus on: i) Developing process-based mathematical and physical models; ii) Designing generative AI algorithms for wind–water–climate dynamics; and iii) Building science-aware ML applications for Earth and environmental systems  
 
@@ -38,7 +38,7 @@ My research bridges **physics-based modeling** and **machine learning** to advan
 
 ## 🎓 Education
 
-I earned my Ph.D. degree in **Fluid Dynamics and Hydrology (on Applied Math and Statistics)** from **Duke University (USA)** in April 2023, where I was fortunate to have been advised by Professor [**Gabriel "Gaby" Katul**](https://nicholas.duke.edu/people/faculty/gabriel-katul/), a member of the **National Academy of Engineering**. Additionally, I was guided by Professor [**Vahid Tarokh**](https://ece.duke.edu/people/vahid-tarokh/), also an NAE member, and obtained a Master of Science degree in **Computer Science** concentrated on **Artificial Intelligence**.  
+I earned my Ph.D. degree in Fluid Dynamics and Hydrology (on Applied Math and Statistics) from **Duke University (USA)** in April 2023, where I was fortunate to have been advised by Professor [Gabriel "Gaby" Katul](https://nicholas.duke.edu/people/faculty/gabriel-katul/), a member of the National Academy of Engineering. Additionally, I was guided by Professor [Vahid Tarokh](https://ece.duke.edu/people/vahid-tarokh/), also an NAE member, and obtained a Master of Science degree in **Computer Science** concentrated on Artificial Intelligence.  
 
 I completed a Master’s degree in Mechanical Engineering (minor in Climate Science) at **Cornell University (USA)** in June 2019, following an earlier degree in Environmental Engineering Science from **Northwestern University (USA)**, where I graduated in May 2018—marking the beginning of my academic journey in the United States.
 
