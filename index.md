@@ -7,10 +7,10 @@
   border-radius: 10px;
   box-shadow: -2px 2px 6px rgba(0,0,0,0.2);
 ">
-  <a href="./index" style="margin-right: 20px; text-decoration: none; color: #1a73e8; font-weight: bold;">🏠 Home</a>
-  <a href="./publication" style="margin-right: 20px; text-decoration: none; color: #1a73e8; font-weight: bold;">📚 Publications</a>
-  <a href="./ai4science" style="margin-right: 20px; text-decoration: none; color: #1a73e8; font-weight: bold;"> 🧠AI4Science</a>
-  <a href="./physics" style="text-decoration: none; color: #1a73e8; font-weight: bold;"> 🌪️ PhysTransProcs</a>
+  <a href="/index" style="margin-right: 20px; text-decoration: none; color: #1a73e8; font-weight: bold;">🏠 Home</a>
+  <a href="/publication" style="margin-right: 20px; text-decoration: none; color: #1a73e8; font-weight: bold;">📚 Publications</a>
+  <a href="/ai4science" style="margin-right: 20px; text-decoration: none; color: #1a73e8; font-weight: bold;"> 🧠AI4Science</a>
+  <a href="/physics" style="text-decoration: none; color: #1a73e8; font-weight: bold;"> 🌪️ PhysTransProcs</a>
 </div>
 
 <div style="margin-top: 40px;"></div>
