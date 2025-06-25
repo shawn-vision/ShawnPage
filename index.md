@@ -24,8 +24,7 @@ Postdoctoral Scientist Fellow
 Email: shuolin.li@columbia.edu  
 
 ---
-
-<div style="line-height: 1.5;">
+<div style="margin-top: 40px;"></div>
   
 ## 🔬 About Me
 
@@ -34,6 +33,8 @@ I lead the *Machine Learning for Data Assimilation* project at [LEAP](https://le
 My research bridges **physics-based modeling** and **machine learning** to advance understanding and prediction of geophysical systems. I focus on: i) Developing process-based mathematical and physical models; ii) Designing generative AI algorithms for wind–water–climate dynamics; and iii) Building science-aware ML applications for Earth and environmental systems  
 
 ---
+<div style="margin-top: 40px;"></div>
+
 
 ## 🎓 Education
 
@@ -42,6 +43,8 @@ I earned my Ph.D. degree in Fluid Dynamics and Hydrology (on Applied Math and St
 I completed a Master’s degree in Mechanical Engineering (minor in Climate Science) at **Cornell University (USA)** in June 2019, following an earlier degree in Environmental Engineering Science from **Northwestern University (USA)**, where I graduated in May 2018—marking the beginning of my academic journey in the United States.
 
 ---
+<div style="margin-top: 40px;"></div>
+
 
 ## 🏅 Honors & Service
 
@@ -55,6 +58,6 @@ I completed a Master’s degree in Mechanical Engineering (minor in Climate Scie
 - **Keynote Speaker**, First Global Competence Forum for Young Elites, Xi'an, China, 2019
 
 ---
-</div>
+
 
 > *“Modeling nature demands both rigor and creativity — I try to bring both.”*
