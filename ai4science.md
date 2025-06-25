@@ -15,9 +15,9 @@
 
 <div style="margin-top: 40px;"></div>
 
-<p align="center">
+
 # 🌍 Climate Modeling with Generative AI
-</p>
+
 
 ### 🔁 Probabilistic Climate Predictions
 
