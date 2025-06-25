@@ -15,9 +15,11 @@
 
 <div style="margin-top: 40px;"></div>
 
+<p align="center">
 # 🌍 Climate Modeling with Generative AI
+</p>
 
-## 🔁 Climate Prediction: Trajectory or Distribution?
+### 🔁 Probabilistic Climate Predictions
 
 In machine learning weather assimilation, scientists use observations to adjust their models' trajectory and forecasts — like daily temperatures. This traditional method focuses on short-term accuracy. However, for **climate models**, it's essential to understand long-term dynamics and distributions, since we cannot replicate the exact future state of a single day.
 
@@ -30,7 +32,7 @@ This approach enables better estimation of **extreme events** — like heatwaves
 
 ---
 
-## 🛰️ Sparse Remote Sensing & Probabilistic Climate Projection
+### 🛰️ Remote Sensing & Probabilistic Climate Projection
 
 This research enhances climate forecasts by integrating **transport processes** into Earth System Models (ESMs). I utilize **indirect meteorological observations** — such as gas flux, vapor, and precipitation — via a **deep learning–based data assimilation framework** I designed.
 
@@ -43,7 +45,7 @@ Qu, Y., Juan, N., *Li, S.*, & Gentine, P. (2024). *Deep generative data assimila
 
 ---
 
-## 🌊 Bridging Microscale Physics and the Environment via AI
+### 🌊 Bridging Physics and Environment via AI
 
 This work pioneers a **physics-informed ML framework** for modeling **suspended sediment transport** in vegetated flows. It enables **data-driven closure** of sediment dispersion fluxes, directly linking microscale turbulence to **bulk sediment concentration** in channel experiments.
 
