@@ -8,9 +8,9 @@
   box-shadow: -2px 2px 6px rgba(0,0,0,0.2);
 ">
   <a href="./index.md" style="margin-right: 20px; text-decoration: none; color: #1a73e8; font-weight: bold;">🏠 Home</a>
-  <a href="./publication.md" style="margin-right: 20px; text-decoration: none; color: #1a73e8; font-weight: bold;">📚 Publications</a>
-  <a href="./physics.md" style="margin-right: 20px; text-decoration: none; color: #1a73e8; font-weight: bold;">🌪️ PhysTransProcs</a>
-  <a href="./ai4science.md" style="text-decoration: none; color: #1a73e8; font-weight: bold;">🧠AI4Science</a>
+  <a href="./publication" style="margin-right: 20px; text-decoration: none; color: #1a73e8; font-weight: bold;">📚 Publications</a>
+  <a href="./physics" style="margin-right: 20px; text-decoration: none; color: #1a73e8; font-weight: bold;">🌪️ PhysTransProcs</a>
+  <a href="./ai4science" style="text-decoration: none; color: #1a73e8; font-weight: bold;">🧠AI4Science</a>
 </div>
 
 <div style="margin-top: 40px;"></div>
